@@ -12,6 +12,7 @@
 
 - [Articles](#articles)
 - [Resources](#resources)
+- [Books](#books)
 - [Documentaries](#documentaries)
 - [Newsletters](#newsletters)
 
@@ -25,6 +26,17 @@
 
 - [Responsive Web Design Patterns | This Is Responsive](http://bradfrost.github.io/this-is-responsive/patterns.html)
 - [Responsive Web Design Resources | This Is Responsive](http://bradfrost.github.io/this-is-responsive/resources.html)
+
+
+## Books
+
+- [The Non-Designer's Design Book](https://www.amazon.com/gp/product/B00PWDFWEE/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1)
+- [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered](https://www.amazon.com/gp/product/B00GU2RGGI/ref=oh_aui_d_detailpage_o04_?ie=UTF8&psc=1)
+- [The Elements of Color](https://www.amazon.com/Elements-Color-Treatise-System-Johannes/dp/0471289299)
+- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
+- [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=dp_ob_title_bk)
+- [The War of Art](https://www.amazon.com/gp/product/B007A4SDCG/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)
+- [Universal Principles of Design](https://www.amazon.com/gp/product/B00A3T5UO4/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
 
 ## Documentaries
 
