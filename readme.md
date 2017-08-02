@@ -15,7 +15,6 @@
 - [Books](#books)
 - [Documentaries](#documentaries)
 - [Newsletters](#newsletters)
-- [Books](#books)
 
 ## Articles
 
@@ -41,16 +40,13 @@
 - [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=dp_ob_title_bk)
 - [The War of Art](https://www.amazon.com/gp/product/B007A4SDCG/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)
 - [Universal Principles of Design](https://www.amazon.com/gp/product/B00A3T5UO4/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
+- [The Vignelli Canon](https://www.amazon.com/gp/product/3037782250/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=3037782250&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 
 ## Documentaries
 
 - [Documental Helvetica Subtitulado Español - YouTube](https://www.youtube.com/watch?v=Bec_WaunPMo)
 - [Objectified. (English) - YouTube](https://www.youtube.com/watch?v=Ty0fGn8fiUU)
 - [Abstract: The Art of Design | Official Trailer HD | Netflix - YouTube](https://www.youtube.com/watch?v=DYaq2sWTWAA)
-
-## Books
-
-- [The Vignelli Canon](https://www.amazon.com/gp/product/3037782250/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=3037782250&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 
 ## Newsletters
 
