@@ -49,6 +49,7 @@
 - [Abstract: The Art of Design | Official Trailer HD | Netflix - YouTube](https://www.youtube.com/watch?v=DYaq2sWTWAA)
 - [You have been lied to](https://vimeo.com/121082134)
 - [Mike Monteiro: F*ck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
+- [A journey through the mind of an artist](https://www.ted.com/talks/dustin_yellin_a_journey_through_the_mind_of_an_artist#t-440203)
 
 ## Newsletters
 
