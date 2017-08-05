@@ -50,6 +50,7 @@
 - [You have been lied to](https://vimeo.com/121082134)
 - [Mike Monteiro: F*ck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
 - [A journey through the mind of an artist](https://www.ted.com/talks/dustin_yellin_a_journey_through_the_mind_of_an_artist#t-440203)
+- [Embrace the shake](https://www.ted.com/talks/phil_hansen_embrace_the_shake#t-118028)
 
 ## Newsletters
 
