@@ -52,6 +52,7 @@
 - [A journey through the mind of an artist](https://www.ted.com/talks/dustin_yellin_a_journey_through_the_mind_of_an_artist#t-440203)
 - [Embrace the shake](https://www.ted.com/talks/phil_hansen_embrace_the_shake#t-118028)
 - [Great design is serious, not solemn](https://www.ted.com/talks/paula_scher_gets_serious#t-1292377)
+- [Teaching art or teaching to think like an artist?](https://www.youtube.com/watch?v=ZcFRfJb2ONk)
 
 ## Newsletters
 
