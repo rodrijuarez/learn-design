@@ -14,6 +14,7 @@
 - [Resources](#resources)
 - [Books](#books)
 - [Documentaries - Talks](#documentaries-and-talks)
+- [Podcasts](#podcasts)
 - [Newsletters](#newsletters)
 
 ## Articles
@@ -55,6 +56,10 @@
 - [Teaching art or teaching to think like an artist?](https://www.youtube.com/watch?v=ZcFRfJb2ONk)
 - [State of the Art Interactive Physical Installations](https://www.youtube.com/watch?v=0xYKEtocBjE)
 - [JavaScript and Interactive Installations](https://www.youtube.com/watch?v=RGAWWhleXMY)
+
+## Podcasts
+
+- [99% Invisible](http://99percentinvisible.org/)
 
 ## Newsletters
 
