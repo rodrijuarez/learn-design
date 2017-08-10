@@ -25,6 +25,10 @@
 - [8 RWD problems (and how to avoid them)](http://www.creativebloq.com/rwd/responsive-design-problems-12142790/2)
 - [Not Your Parent’s Mobile Phone: UX Design Guidelines For Smartphones](https://www.smashingmagazine.com/2011/10/not-your-parents-mobile-phone-ux-design-guidelines-smartphones/)
 - [Towards A Retina Web](https://www.smashingmagazine.com/2012/08/towards-retina-web/)
+- [Reminder: Design is still about words](https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words)
+- [Choosing the Right Font: A Practical Guide to Typography on the Web](https://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
+- [Checklist for Better Web Typography](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html)
+- [Web Design is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period/)
 
 ## Resources
 
@@ -56,6 +60,7 @@
 - [Teaching art or teaching to think like an artist?](https://www.youtube.com/watch?v=ZcFRfJb2ONk)
 - [State of the Art Interactive Physical Installations](https://www.youtube.com/watch?v=0xYKEtocBjE)
 - [JavaScript and Interactive Installations](https://www.youtube.com/watch?v=RGAWWhleXMY)
+- [Jason Santa Maria - On Web Typography](https://player.vimeo.com/video/34178417)
 
 ## Podcasts
 
