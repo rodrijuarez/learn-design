@@ -62,6 +62,7 @@
 - [State of the Art Interactive Physical Installations](https://www.youtube.com/watch?v=0xYKEtocBjE)
 - [JavaScript and Interactive Installations](https://www.youtube.com/watch?v=RGAWWhleXMY)
 - [Jason Santa Maria - On Web Typography](https://player.vimeo.com/video/34178417)
+- [Magic and Design - Adrian Westaway](https://vimeo.com/225996559)
 
 ## Podcasts
 
